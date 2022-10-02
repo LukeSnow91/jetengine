@@ -1,0 +1,24 @@
+{
+"name": "lukesnow91/jetengine", "description": "",
+"keywords": [
+
+"wordpress", "plugin"
+],
+
+"homepage":
+"https://github.com/lukesnow91/jetengine",
+"authors": [
+
+{
+"name": "jetengine", "homepage":
+"https://eileenlue.com"
+}
+
+],
+
+"type": "wordpress-plugin", "require": {
+"php": ">5.6"
+
+}
+
+}
